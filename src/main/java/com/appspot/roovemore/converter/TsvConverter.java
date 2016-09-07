@@ -312,5 +312,4 @@ public class TsvConverter<T> {
 	private boolean isEmpty(String text) {
 		return text == null || text.length() == 0;
 	}
-
 }
